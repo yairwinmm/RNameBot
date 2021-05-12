@@ -29,7 +29,8 @@ class Translation(object):
     ABOUT_ME = """<b>Me : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n I Can Also Convert Files Into Videos \n </b>"""
     HELP_USER = """<b>You Want Help??</b> \n
     
-<b> 1. Send Me Any Telegram File.</b> \n
-<b> 2. Reply The File With /rename New Name + Extension</b> \n
-<b> 3. Send A Photo To Make It As Permanent Thumbnail </b> \n
-<b> 4. I Can Also Convert Files Into Video Through /c2v Command </b>"""
+<b>1. Send Me Any Telegram File.</b> \n
+<b>2. Reply The File With /rename New Name + Extension</b> \n
+<b>3. Send A Photo To Make It As Permanent Thumbnail </b> \n
+<b>4. I Can Also Convert Files Into Video Through /c2v Command </b>"""
+
