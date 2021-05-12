@@ -19,8 +19,8 @@ class Translation(object):
     DEL_ETED_CUSTOM_THUMB_NAIL = "Thumbnail Cleared Succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media Cleared Succesfully."
     SAVED_RECVD_DOC_FILE = "<b>File Downloaded Successfully 😎</b>"
-    REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Please Reply To An File With /rename Fil Name Extension To Rename A File</b>"
-    REPLY_TO_FILE_FOR_CONVERT = "<b> Please Reply To An File With /c2v To Convert It Into Streamable Video File</b>"
+    REPLY_TO_DOC_FOR_RENAME_FILE = "<b>Please Reply A File With /rename New Name + Extension To Rename A File</b>"
+    REPLY_TO_FILE_FOR_CONVERT = "<b> Please Reply A File With /c2v To Convert It Into Streamable Video File</b>"
     REPLY_TO_DOC_FOR_C2A = "<b> Please Reply To An File/video With /c2a To Convert It Into Audio File</b>"
     CUSTOM_CAPTION_UL_FILE = " "
     NO_THUMB_FOUND = "No Thumbnail found"
@@ -30,6 +30,6 @@ class Translation(object):
     HELP_USER = """<b>You Want Help??</b> \n
     
 <b> 1. Send Me Any Telegram File.</b> \n
-<b> 2. Reply The File With /rename New File name.extnsion</b> \n
-<b> 3. Send A Photo To Make It As Permanent Thumbnail </b> 
+<b> 2. Reply The File With /rename New Name + Extension</b> \n
+<b> 3. Send A Photo To Make It As Permanent Thumbnail </b> \n
 <b> 4. I Can Also Convert Files Into Video Through /c2v Command </b>  \n"""
