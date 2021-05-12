@@ -27,7 +27,7 @@ class Translation(object):
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     IFLONG_FILE_NAME = """You Gotta Be Kidding Me...Decrease The Number Of Letters!"""
     ABOUT_ME = """<b>Me : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n I Can Also Convert Files Into Videos \n </b>"""
-    HELP_USER = """<b>You Want Help<b>??
+    HELP_USER = """<b>You Want Help??</b> \n
     
 <b> 1. Send Me Any Telegram File.</b> \n
 <b> 2. Reply The File With /rename New File name.extnsion</b> \n
