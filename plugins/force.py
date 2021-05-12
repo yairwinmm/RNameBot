@@ -54,7 +54,6 @@ async def text(bot, update):
             [
                 [
                     InlineKeyboardButton('FOLLOW', url='https://Instagram.com/dazaisua'),
-                    InlineKeyboardButton('ME', url='https://t.me/DazaiSun')
                 ],
                 [
                     InlineKeyboardButton('DEV', url='https://t.me/DazaiSun')
