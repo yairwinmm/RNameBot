@@ -1,5 +1,5 @@
 {
-  "name": "TG Rename Bot",
+  "name": "Dazai Rename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now. @Avishkarpatil",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/Avishkarpatil",
-  "website": "https://github.com/avipatilpro",
-  "repository": "https://github.com/avipatilpro/RnameBot",
+  "success_url": "https://t.me/DazaiSun",
+  "website": "https://github.com/marshallcares",
+  "repository": "https://github.com/marshallcares/RNameBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
