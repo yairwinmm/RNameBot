@@ -53,11 +53,11 @@ async def text(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('FOLLOW', url='https://Instagram.com/proavipatil'),
-                    InlineKeyboardButton('ME', url='https://t.me/AvishkarPatil')
+                    InlineKeyboardButton('FOLLOW', url='https://Instagram.com/dazaisua'),
+                    InlineKeyboardButton('ME', url='https://t.me/DazaiSun')
                 ],
                 [
-                    InlineKeyboardButton('DEV', url='https://t.me/AvishkarPatil')
+                    InlineKeyboardButton('DEV', url='https://t.me/DazaiSun')
                 
                 ]
             ]
