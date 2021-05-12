@@ -31,5 +31,6 @@ class Translation(object):
     
 <b> 1. Send Me Any Telegram File.</b> \n
 <b> 2. Reply The File With /rename New File name.extnsion</b> \n
-<b> 3. Send A Photo To Make It As Permanent Thumbnail </b> """
+<b> 3. Send A Photo To Make It As Permanent Thumbnail </b> 
+"""
 <b> 4. I Can Also Convert Files Into Video Through /c2v Command </b>  \n
